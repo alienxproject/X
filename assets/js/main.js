@@ -110,7 +110,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 // PARA LISTADO PRIMARIO
-fetch('https://alienxproject.github.io/X/main/assets/js/canales.json')
+fetch('https://alplox.github.io/teles/main/assets/js/canales.json')
   .then(response => response.json())
   .then(data => {
     let fragmentBtns = document.createDocumentFragment();
