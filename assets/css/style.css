@@ -227,7 +227,7 @@ header {
 
 /* Modal */
 .modal {
-    display: none;
+    display: none; /* display: block; */
     position: fixed; 
     z-index: 3;
     left: 0;
