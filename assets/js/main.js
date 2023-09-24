@@ -33,6 +33,11 @@ function crearIframe(source) {
 
 function crearBarraNombre(nombre, fuente) {
     const fragmentBarra = document.createDocumentFragment();
+    let a = document.createElement('a');
+        a.innerHTML = nombre;
+        a.title = 'Ir a la página oficial de esta transmisión';
+        a.href = fuente;
+        a.rel = 'noopener nofollow noreferrer';
         fragmentBarra.append(a);
     return fragmentBarra;
 }; 
@@ -198,7 +203,7 @@ for (let i = 0; i < parseM3u.length; i++) {
                     console.log(error)
                 });
             }
-        barraNombre.append(crearBarraNombreM3u8(``));
+        barraNombre.append(crearBarraNombreM3u8(`${title} | M3U8`));
         // activa boton overlay y verifica su estado
         btnCheckboxOverlay.disabled = false;
         checkOverlayStatus();
