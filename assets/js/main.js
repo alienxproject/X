@@ -33,7 +33,7 @@ function crearIframe(source) {
 
 function crearBarraNombre(nombre, fuente) {
     const fragmentBarra = document.createDocumentFragment();
-    let a = document.createElement('a');
+    let a = document.createElement('x');
         a.innerHTML = nombre;
         a.title = '';
         a.href = fuente;
@@ -155,8 +155,6 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                     containerTransmision.append(crearIframe(`https://www.youtube-nocookie.com/embed/live_stream?channel=${yt_id}&autoplay=1&mute=0&modestbranding=1&showinfo=0`));
                     barraNombre.append(crearBarraNombre(nombre, `https://www.youtube.com/channel/${yt_id}`));
                 } 
-                // si posee enlace 'fuente' utlizalo en 'barraNombre'
-                if (typeof barraNombre !== 'undefined') {fuente.append(crearBarraNombre(fuente, nombre));}
                 // activa boton overlay y verifica su estado
                 btnCheckboxOverlay.disabled = false;
                 checkOverlayStatus();
