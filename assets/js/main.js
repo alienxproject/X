@@ -156,9 +156,9 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                     barraNombre.append(crearBarraNombre(nombre, `https://www.youtube.com/channel/${yt_id}`));
                 } 
                 // si posee enlace 'fuente' utlizalo en 'barraNombre'
-                if (typeof fuente !== 'undefined') {containerTransmision.append(crearBarraNombre(fuente));}
+                if (typeof barraNombre !== 'undefined') {fuente.append(crearBarraNombre(fuente, nombre));}
                 // activa boton overlay y verifica su estado
-                btnCheckboxOverlay.disabled = true;
+                btnCheckboxOverlay.disabled = false;
                 checkOverlayStatus();
             });
             fragmentBtns.append(btnCanal);
