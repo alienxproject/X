@@ -1,7 +1,7 @@
 {
-    "name": "site live streaming for sport event",
+    "name": "ALIEN X TV",
     "description": "site live streaming for sport event",
-    "short_name": "ALIEN X TV",
+    "short_name": "AXTV",
     "icons": [
         {
             "src": "./assets/favicon/android-chrome-192x192.png",
