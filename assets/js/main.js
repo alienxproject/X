@@ -33,11 +33,7 @@ function crearIframe(source) {
 
 function crearBarraNombre(nombre, fuente) {
     const fragmentBarra = document.createDocumentFragment();
-    let a = document.createElement('x');
-        a.innerHTML = nombre;
-        a.title = '';
-        a.href = fuente;
-        a.rel = 'noopener nofollow noreferrer';
+    let a = document.createElement('a');
         fragmentBarra.append(a);
     return fragmentBarra;
 }; 
