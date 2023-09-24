@@ -59,7 +59,7 @@ function limpiarTransmisionActiva() {
 
 // overlay on/off
 if (containerTransmision.childElementCount !== 1) {
-    btnCheckboxOverlay.disabled = false;
+    btnCheckboxOverlay.disabled = true;
     spanOverlay.innerHTML = '<i class="ai-eye-closed"></i>'
 }
 
@@ -151,7 +151,10 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                
                 } else if (typeof yt_id !== 'undefined'){
                     containerTransmision.append(crearIframe(`https://www.youtube-nocookie.com/embed/live_stream?channel=${yt_id}&autoplay=1&mute=0`));
-                }
+                    barraNombre.append(crearBarraNombre(nombre, `https://www.youtube.com/channel/${yt_id}`));
+                } 
+                // si posee enlace 'fuente' utlizalo en 'barraNombre'
+                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre(fuente, nombre));}
                 // activa boton overlay y verifica su estado
                 btnCheckboxOverlay.disabled = false;
                 checkOverlayStatus();
