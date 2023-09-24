@@ -156,7 +156,7 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                     barraNombre.append(crearBarraNombre(nombre, `https://www.youtube.com/channel/${yt_id}`));
                 } 
                 // si posee enlace 'fuente' utlizalo en 'barraNombre'
-                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre(nombre, fuente));}
+                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre( ));}
                 // activa boton overlay y verifica su estado
                 btnCheckboxOverlay.disabled = false;
                 checkOverlayStatus();
