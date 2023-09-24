@@ -23,42 +23,42 @@
         "pais": "cl"
     },
     "Field Hockey 🏒": {
-        "nombre": "24 horas 5",
+        "nombre": "Field Hockey 🏒",
         "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
         "fuente": "",
         "pais": "cl"
     },
     "Volleyball 🏐": {
-        "nombre": "24 horas 6",
+        "nombre": "Volleyball 🏐",
         "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
         "fuente": "",
         "pais": "cl"
     },
-    "Basketball 🏀": {
-        "nombre": "24 Horas s2",
+    "<center>Basketball 🏀</center>": {
+        "nombre": "Basketball 🏀",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8",
         "fuente": "",
         "pais": "cl"
     },
     "Cricket 🏏": {
-        "nombre": "24 Horas s2 2",
+        "nombre": "Cricket 🏏",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8",
         "fuente": "",
         "pais": "cl"
     },
     "Table Tennis 🎾": {
-        "nombre": "TVN",
+        "nombre": "Table Tennis 🎾",
         "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
         "pais": "cl"
     },
     "Baseball ⚾": {
-        "nombre": "TVN 2",
+        "nombre": "Baseball ⚾",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
         "fuente": "",
         "pais": "cl"
     },
     "Golf ⛳": {
-        "nombre": "Meganoticias",
+        "nombre": "Golf ⛳",
         "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
         "pais": "cl"
     },
