@@ -1,12 +1,12 @@
 {
     "canal-13": {
         "nombre": "Liga 1 🇮🇩",
-        "yt_id": "",
+        "iframe_url": "https://13313131.tnvas.repl.co/",
         "pais": "cl"
     },  
     "chv-noticias-2": {
         "nombre": "Liga 2 🇮🇩",
-        "m3u8_url": "https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8",
+        "iframe_url": "https://13313131.tnvas.repl.co/",
         "fuente": "",
         "pais": "cl"
     },
@@ -18,18 +18,18 @@
     },
     "canal-13-3": {
         "nombre": "Timnas day ⚽",
-        "iframe_url": "https://ainmcl.github.io/MonitorTV/Monitores/Senal/WEB/Se%C3%B1alCANAL13_IFRAME.html",
-        "fuente": "https://www.13.cl/en-vivo",
+        "iframe_url": "https://13313131.tnvas.repl.co/",
+        "fuente": "",
         "pais": "cl"
     },
     "cnn-cl": {
         "nombre": "Timnas day 🏀",
-        "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+        "iframe_url": "https://13313131.tnvas.repl.co/",
         "pais": "cl"
     },
     "chv-noticias": {
         "nombre": "Timnas day 🏐",
-        "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
+        "iframe_url": "https://13313131.tnvas.repl.co/",
         "pais": "cl"
     },
     "Football ⚽": {
