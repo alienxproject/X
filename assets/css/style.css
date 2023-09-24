@@ -135,7 +135,7 @@ header {
     font-weight: ;
     font-size: calc(1.6rem + 2vw);
     text-transform: uppercase;
-    color: var(--light-green);
+    color: var(--main);
     padding: 0 2rem;
 }
 
