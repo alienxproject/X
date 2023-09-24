@@ -1,23 +1,23 @@
 {
     "Football ⚽": {
-        "nombre": "24 horas",
+        "nombre": "Football ⚽",
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
         "pais": "cl"
     },
     "Tennis 🎾": {
-        "nombre": "tv baru",
+        "nombre": "Tennis 🎾",
         "m3u8_url": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8",
         "fuente": "",
         "pais": "cl"
     },
     "Batminton 🏸": {
-        "nombre": "24 Horas 3",
+        "nombre": "Batminton 🏸",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8",
         "fuente": "",
         "pais": "cl"
     },
     "Boxing 🥊": {
-        "nombre": "24 horas 4",
+        "nombre": "Boxing 🥊",
         "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
         "fuente": "",
         "pais": "cl"
