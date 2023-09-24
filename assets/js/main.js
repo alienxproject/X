@@ -35,7 +35,9 @@ function crearBarraNombre(nombre, fuente) {
     const fragmentBarra = document.createDocumentFragment();
     let a = document.createElement('a');
         a.innerHTML = nombre;
+        a.title = '';
         a.href = fuente;
+        a.rel = 'noopener nofollow noreferrer';
         fragmentBarra.append(a);
     return fragmentBarra;
 }; 
@@ -150,11 +152,11 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                     }
                
                 } else if (typeof yt_id !== 'undefined'){
-                    containerTransmision.append(crearIframe(`https://www.youtube-nocookie.com/embed/live_stream?channel=${yt_id}&autoplay=1&mute=0`));
+                    containerTransmision.append(crearIframe(`https://www.youtube-nocookie.com/embed/live_stream?channel=${yt_id}&autoplay=1&mute=0&modestbranding=1&showinfo=0`));
                     barraNombre.append(crearBarraNombre(nombre, `https://www.youtube.com/channel/${yt_id}`));
                 } 
                 // si posee enlace 'fuente' utlizalo en 'barraNombre'
-                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre(fuente, nombre));}
+                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre(nombre, fuente));}
                 // activa boton overlay y verifica su estado
                 btnCheckboxOverlay.disabled = false;
                 checkOverlayStatus();
