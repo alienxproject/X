@@ -1,7 +1,7 @@
 {
-    "name": "Canales de Chile a un toque.",
-    "description": "Canales de Chile a un toque.",
-    "short_name": "tele",
+    "name": "site live streaming for sport event",
+    "description": "site live streaming for sport event",
+    "short_name": "ALIEN X TV",
     "icons": [
         {
             "src": "./assets/favicon/android-chrome-192x192.png",
