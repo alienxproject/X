@@ -59,12 +59,12 @@ function limpiarTransmisionActiva() {
 
 // overlay on/off
 if (containerTransmision.childElementCount !== 1) {
-    btnCheckboxOverlay.disabled = true;
+    btnCheckboxOverlay.disabled = false;
     spanOverlay.innerHTML = '<i class="ai-eye-closed"></i>'
 }
 
 const habilitarOverlay = () => {
-    localStorage.setItem('overlay', 'show');
+    localStorage.setItem('overlay', 'hide');
     if (containerTransmision.childElementCount === 1){
         overlay.classList.remove('d-none'); 
     } 
@@ -150,7 +150,7 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                     }
                
                 } else if (typeof yt_id !== 'undefined'){
-                    containerTransmision.append(crearIframe(`https://www.youtube-nocookie.com/embed/live_stream?channel=${yt_id}&autoplay=1&mute=0&modestbranding=1&showinfo=0`));
+                    containerTransmision.append(crearIframe(`https://www.youtube-nocookie.com/embed/live_stream?channel=${yt_id}&autoplay=1&mute=0`));
                 }
                 // activa boton overlay y verifica su estado
                 btnCheckboxOverlay.disabled = false;
