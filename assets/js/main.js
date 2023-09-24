@@ -203,7 +203,7 @@ for (let i = 0; i < parseM3u.length; i++) {
                     console.log(error)
                 });
             }
-        barraNombre.append(crearBarraNombreM3u8(`${title} | M3U8`));
+        barraNombre.append(crearBarraNombreM3u8(``));
         // activa boton overlay y verifica su estado
         btnCheckboxOverlay.disabled = false;
         checkOverlayStatus();
