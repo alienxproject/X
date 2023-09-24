@@ -64,7 +64,7 @@ https://multimedia.fortalezatv.cl/video/video.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="anjing tv" tvg-logo="https://i.imgur.com/tHVc8on.png", anjing * | CL
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 * (1080p)
+#EXTINF:-1 tvg-name="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1  | CL
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 `
