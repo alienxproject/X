@@ -217,7 +217,7 @@ containerBtnsCanalesM3u8.append(fragmentBtnsM3u8);
 const btnQuitarSeñal = document.querySelector('#btn-quitar-señal');
 btnQuitarSeñal.addEventListener('click', () => {
     limpiarTransmisionActiva()
-    recordatorio.innerHTML = 'apagad<svg xmlns="http://www.w3.org/2000/svg" width="calc(1.6rem + 1.7vw)" height="calc(1.6rem + 1.7vw)" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width=".7" stroke-linecap="round" stroke-linejoin="round" class="ai ai-FaceSad"><circle cx="12" cy="12" r="10"/><path d="M8 9.05v-.1"/><path d="M16 9.05v-.1"/><path d="M16 16c-.5-1.5-1.79-3-4-3s-3.5 1.5-4 3"/></svg>';
+    recordatorio.innerHTML = 'OFF<svg xmlns="http://www.w3.org/2000/svg" width="calc(1.6rem + 1.7vw)" height="calc(1.6rem + 1.7vw)" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width=".7" stroke-linecap="round" stroke-linejoin="round" class="ai ai-FaceSad"><circle cx="12" cy="12" r="10"/><path d="M8 9.05v-.1"/><path d="M16 9.05v-.1"/><path d="M16 16c-.5-1.5-1.79-3-4-3s-3.5 1.5-4 3"/></svg>';
     // oculta overlay sin cambiar localstorage
     if (containerTransmision.childElementCount !== 1){
         overlay.classList.add('d-none'); 
