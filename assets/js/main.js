@@ -64,7 +64,7 @@ if (containerTransmision.childElementCount !== 1) {
 }
 
 const habilitarOverlay = () => {
-    localStorage.setItem('overlay', 'hide');
+    localStorage.setItem('overlay', 'show');
     if (containerTransmision.childElementCount === 1){
         overlay.classList.remove('d-none'); 
     } 
@@ -76,7 +76,7 @@ const habilitarOverlay = () => {
 
 
 const desabilitarOverlay = () => {
-    localStorage.setItem('overlay', 'show');
+    localStorage.setItem('overlay', 'hide');
     overlay.classList.add('d-none');
     spanOverlay.innerHTML = '<i class="ai-eye-slashed"></i>';
     if (containerTransmision.childElementCount !== 1) {
