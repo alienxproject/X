@@ -62,7 +62,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://i2.paste.pics/34c6e0cc1a8eccd67342a70fb2281c7c.png", Fortaleza TV | CL
 https://multimedia.fortalezatv.cl/video/video.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/tHVc8on.png", anjing * | CL
+#EXTINF:-1 tvg-id="4" tvg-name="anjing tv" tvg-logo="https://i.imgur.com/tHVc8on.png", anjing * | CL
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 `
