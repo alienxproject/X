@@ -7,19 +7,16 @@
     "chv-noticias-2": {
         "nombre": "Liga 2 🇮🇩",
         "iframe_url": "https://13313131.tnvas.repl.co/",
-        "fuente": "",
         "pais": "cl"
     },
     "canal-13-2": {
         "nombre": "timnas day 🏸",
         "iframe_url": "https://13313131.tnvas.repl.co/",
-        "fuente": "",
         "pais": "cl"
     },
     "canal-13-3": {
         "nombre": "Timnas day ⚽",
         "iframe_url": "https://13313131.tnvas.repl.co/",
-        "fuente": "",
         "pais": "cl"
     },
     "cnn-cl": {
@@ -40,43 +37,36 @@
     "Tennis 🎾": {
         "nombre": "Tennis 🎾",
         "m3u8_url": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "Batminton 🏸": {
         "nombre": "Batminton 🏸",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "Boxing 🥊": {
         "nombre": "Boxing 🥊",
         "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
-        "fuente": "",
         "pais": "cl"
     },
     "Field Hockey 🏒": {
         "nombre": "Field Hockey 🏒",
         "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
-        "fuente": "",
         "pais": "cl"
     },
     "Volleyball 🏐": {
         "nombre": "Volleyball 🏐",
         "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
-        "fuente": "",
         "pais": "cl"
     },
     "<center>Basketball 🏀</center>": {
         "nombre": "Basketball 🏀",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "Cricket 🏏": {
         "nombre": "Cricket 🏏",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "Table Tennis 🎾": {
@@ -87,7 +77,6 @@
     "Baseball ⚾": {
         "nombre": "Baseball ⚾",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "Golf ⛳": {
@@ -98,25 +87,21 @@
     "meganoticias-2": {
         "nombre": "Moto gp 🏍️",
         "iframe_url": "https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io",
-        "fuente": "",
         "pais": "cl"
     },
     "meganoticias-3": {
         "nombre": "MMA 💪",
         "iframe_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
-        "fuente": "",
         "pais": "cl"
     },
     "mega": {
         "nombre": "Darts 🎯",
         "m3u8_url": "https://marine2.miplay.cl/mega/index.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "mega-2": {
         "nombre": "Handball 🤾‍♂️",
         "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "t13": {
@@ -127,38 +112,32 @@
     "t13-2": {
         "nombre": "Ice Hockey 🏒",
         "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
-        "fuente": "",
         "pais": "cl"
     },
     "t13-3": {
         "nombre": "Futsal ⚽",
         "m3u8_url": "https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "t13-4": {
         "nombre": "Rugby 🏉",
         "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-        "fuente": "",
         "pais": "cl"
     },
     "t13-5": {
         "nombre": "Archery 🏹",
         "iframe_url": "https://rudo.video/live/t13",
-        "fuente": "",
         "pais": "cl"
 
     },
     "chv-noticias-3": {
         "nombre": "CHV Noticias 3",
         "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
-        "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
     "chv-noticias-4": {
         "nombre": "CHV Noticias 4",
         "iframe_url": "https://rudo.video/live/chvn",
-        "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
     "chv": {
@@ -169,25 +148,16 @@
     "chv-2": {
         "nombre": "CHV 2",
         "iframe_url": "https://chvv--hofece7009.repl.co/",
-        "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
     "chv-3": {
         "nombre": "CHV 3",
         "m3u8_url": "https://marine2.miplay.cl/chilevision/index.m3u8",
-        "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
     "chv-4": {
         "nombre": "CHV 4",
         "iframe_url": "https://www.viendotele.cl/assets-tele/chv.html",
-        "fuente": "https://www.chilevision.cl/senal-online",
-        "pais": "cl"
-    },
-    "la-red": {
-        "nombre": "La Red",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
-        "fuente": "https://www.lared.cl/senal-online",
         "pais": "cl"
     }
 }
