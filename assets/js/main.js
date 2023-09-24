@@ -35,6 +35,7 @@ function crearBarraNombre(nombre, fuente) {
     const fragmentBarra = document.createDocumentFragment();
     let a = document.createElement('a');
         a.innerHTML = nombre;
+        a.title = 'Ir a la página oficial de esta transmisión';
         a.href = fuente;
         a.rel = 'noopener nofollow noreferrer';
         fragmentBarra.append(a);
@@ -155,7 +156,7 @@ fetch('https://raw.githubusercontent.com/alienxproject/X/main/assets/js/canales.
                     barraNombre.append(crearBarraNombre(nombre, `https://www.youtube.com/channel/${yt_id}`));
                 } 
                 // si posee enlace 'fuente' utlizalo en 'barraNombre'
-                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre( ));}
+                if (typeof fuente !== 'undefined') {barraNombre.append(crearBarraNombre(nombre, fuente));}
                 // activa boton overlay y verifica su estado
                 btnCheckboxOverlay.disabled = false;
                 checkOverlayStatus();
