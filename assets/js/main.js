@@ -76,7 +76,7 @@ const habilitarOverlay = () => {
 
 
 const desabilitarOverlay = () => {
-    localStorage.setItem('overlay', 'hide');
+    localStorage.setItem('overlay', 'show');
     overlay.classList.add('d-none');
     spanOverlay.innerHTML = '<i class="ai-eye-slashed"></i>';
     if (containerTransmision.childElementCount !== 1) {
