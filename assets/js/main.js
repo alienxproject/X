@@ -35,9 +35,7 @@ function crearBarraNombre(nombre, fuente) {
     const fragmentBarra = document.createDocumentFragment();
     let a = document.createElement('a');
         a.innerHTML = nombre;
-        a.title = 'Ir a la página oficial de esta transmisión';
         a.href = fuente;
-        a.rel = 'noopener nofollow noreferrer';
         fragmentBarra.append(a);
     return fragmentBarra;
 }; 
