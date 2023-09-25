@@ -89,7 +89,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/jp8VX4E.png" group-title="Sports",AntenaSport (720p) [Not 24/7]
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6" tvg-name="ArenaSport3BosniaandHerzegovina" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports",Arena Sport 3 BA (1080p)
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
@@ -262,7 +261,6 @@ https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Pac12Insider" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports",Pac 12 Insider (1080p) [Not 24/7]
 https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6" tvg-name="PBR Ride Pass" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="Sports",PBR RidePass [Geo-blocked]
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sname=62f4
 #EXTINF:-1 tvg-id="6" tvg-name="Persiana Sports" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sports (720p)
