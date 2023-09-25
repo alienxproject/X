@@ -27,14 +27,14 @@ por Alplox
 
 :root {
     --main: #60d9a7;
-    --secondary: #38444d;
-    --bg: #4d4d4d;
+    --secondary: #404040;
+    --bg: #3b3b3b;
 
     --dark-green: #60d9a7;
     --light-green: #72c98c;
 
     --white: #ffffff;
-    --black: #000000;
+    --black: ;
     --grey: #60d9a7;
 
     --dark-red: #7e0909;
