@@ -87,7 +87,14 @@ https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 tvg-id="6" tvg-name="All Sports" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
+#EXTINF:-1 tvg-id="6" tvg-name="NESN" tvg-logo="https://i.imgur.com/Lv1bUG5.png"
+https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="New Japan Pro Wrestling World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/512px-New_Japan_Pro_Wrestling_Logo_2.svg.png" 
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Nitro Circus" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="NTV Spor" tvg-logo="https://i.imgur.com/5pvsIsL.png" 
+http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
 `
 
 let parseM3u = m3utojson(m3u);
