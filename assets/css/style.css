@@ -286,6 +286,11 @@ header {
     text-align: center;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 .center {
     display: flex;
     justify-content: center;
