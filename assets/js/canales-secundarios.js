@@ -93,12 +93,8 @@ https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/61415
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Nitro Circus" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="NTV Spor" tvg-logo="https://i.imgur.com/5pvsIsL.png" 
-http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/jp8VX4E.png" 
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="ArenaSport3BosniaandHerzegovina" tvg-logo="https://i.imgur.com/3r3burN.png" 
-http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png" 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="ATG" tvg-logo="https://i.imgur.com/5CdW62M.png" 
@@ -125,8 +121,6 @@ https://ythls.onrender.com/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CanalMotor" tvg-logo="https://i.imgur.com/BHm0wem.png"
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="https://i.imgur.com/EqURkoF.png"
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CDR" tvg-logo="https://i.imgur.com/xevZNi6.png" 
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CnArDeportes" tvg-logo="https://i.imgur.com/07ki2df.png" 
@@ -135,14 +129,10 @@ https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 https://vdo.panelstreaming.live:3058/stream/play.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="D13" tvg-logo="https://i.imgur.com/CmVZkbS.png" 
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="DDSports" tvg-logo="https://i.imgur.com/J2Ky5OO.png" 
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV (1080p) [Not 24/7]
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="DirecTVSportsArgentinar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" 
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="DSTV" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Sports",DSTV (720p)
-http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="DTPlay" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Sports",DT Play (Deporte Total) (720p) [Not 24/7]
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="DubaiRacing2" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Sports",Dubai Racing 2 (1080p)
@@ -159,10 +149,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="EDGEsport" tvg-logo="https://i.imgur.com/oLmgGDG.png" group-title="Sports",EDGEsport (1080p)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="ERTSports1" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="Sports",ERT Sports 1 (1080
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="ERTSports2" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="Sports",ERT Sports 2 (1080p) 
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Esport3" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title="Sports",Esport3 (1080p) 
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="ESTV" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Sports",ESTV (1080p)
@@ -173,8 +159,6 @@ https://vod1.laki.eu/fastnfun/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="FightSports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",FIGHT SPORTS (1080p)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="FightBox" tvg-logo="https://i.imgur.com/mRsnztA.png" 
-http://ott-cdn.ucom.am/s86/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="FightingSpirit" tvg-logo="https://i.imgur.com/PoI9jpp.png" group-title="Sports",Fighting Spirit (720p)
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Fite" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="Sports",Fite (720p) [Not 24/7]
@@ -197,8 +181,6 @@ https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="HardKnocks" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Sports",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="IdmanTV" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Sports",İdman TV (576p)
-http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="IMPACTWrestling" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",IMPACT Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="InsightTV" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (720p)
@@ -221,14 +203,8 @@ https://edge.taghtia.com/sa/16.m3u8
 https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="LaxSportsNetworkTV" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" 
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="M4Sport" tvg-logo="https://i.imgur.com/TQ4uJZk.png" 
-http://146.59.85.40:89/m4hd/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="MNetSport" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports",M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="MadeinBOTV" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="Sports",MadeinBO TV (1080p)
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="Match4" tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Sports",Match4
-http://194.76.186.33:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="MAVTVSelect" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="Sports",MavTV Select (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="MMAJunkie" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="Sports",MMA Junkie (720p)
@@ -241,26 +217,18 @@ https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="MRTVSports" tvg-logo="https://i.imgur.com/cFTR4kC.png" 
 http://183.89.246.119:8881/play/a07q/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" 
-http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
 #EXTINF:-1 tvg-id="6" tvg-name="NESN" tvg-logo="https://i.imgur.com/Lv1bUG5.png" 
 https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="NitroCircus" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="NTVSpor" tvg-logo="https://i.imgur.com/5pvsIsL.png" group-title="Sports",NTV Spor
-http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="NWSport1" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png"
 https://hls.newworldtv.com/nw-sport-1/video/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="NWSport2" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png"
 https://hls.newworldtv.com/nw-sport-2/video/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="OmanSportsTV" tvg-logo="https://i.imgur.com/1omi7p8.png"
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="OneGolf.pk" tvg-logo="https://i.imgur.com/7JhaEW5.png" 
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="ORFSportPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" 
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="OvacionTV" tvg-logo="https://i.imgur.com/7Xndgxk.png"
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Pac12Insider" tvg-logo="https://i.imgur.com/736QREy.png" 
 https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
 
