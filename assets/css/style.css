@@ -286,11 +286,6 @@ header {
     text-align: center;
 }
 
-.modal-body img {
-  width: 100%;
-  height: auto;
-}
-
 .center {
     display: flex;
     justify-content: center;
