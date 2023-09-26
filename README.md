@@ -1,11 +1,11 @@
 # X
-## Sitio: https://alienxproject.github.io/X/
+## Situs: https://alienxproject.github.io/X/
 
-[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg)](https://alplox.github.io/la-tele/)
+[![](https://raw.githubusercontent.com/alienxproject/X/main/assets/img/V0.9.jpg)]([https://alienxproject.github.io/X/]))
 
-## Listado canales disponibles junto a su fuente
+## list of channels
 <details>
-<summary>Canales</summary>
+<summary>Channels</summary>
 
 - [24 Horas](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ)
 - [24 Horas 2](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
@@ -124,10 +124,10 @@
 
 
 <details>
-<summary>Radios 📻</summary>
+<summary>list Radios 📻</summary>
 
 + <details>
-    <summary>Radios Chile 🇨🇱</summary>
+    <summary>Radio</summary>
 
 	- [Cooperativa](http://programas.cooperativa.cl/showalairelibre/)
 	- [Biobio TV](https://www.biobiochile.cl/biobiotv/)
@@ -161,7 +161,7 @@
 
 </details>
 
-*Resto de canales M3U8 provienen de: https://www.m3u.cl/iptv-chile.php
+*rwpo channel M3U8: https://www.m3u.cl/iptv-chile.php
 ## Menciones
 ```
 -Favicon creado con:        https://favicon.io/
@@ -186,7 +186,7 @@
 -Canales M3U8:              https://www.m3u.cl/iptv-chile.php
 ```
 
-## Licencia
+## Licency
 ⚖️ [MIT License](https://github.com/Alplox/la-tele/blob/main/LICENSE)
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/la-tele)](https://badges.strrl.dev)
