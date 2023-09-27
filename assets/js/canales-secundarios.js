@@ -28,7 +28,7 @@ function m3utojson(m3u) {
                  "tvg-id": channel[0].split('"')[1],
                  "title": channel[0].split('"')[3],
                  "name": channel[0].split(',')[1],
-                 "m3u8_url": channel[1].replace('http://', 'https://')                        
+                 "m3u8_url": channel[1].replace('http://', 'http://')                        
                 }
 			}
         });
@@ -243,6 +243,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Pac12Insider" tvg-logo="https://i.imgur.com/736QREy.png" 
 https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="tes bacot" tvg-logo="https://i.imgur.com/736QREy.png" 
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 `
 
