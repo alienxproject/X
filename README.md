@@ -1,7 +1,7 @@
 # X
 ## Situs: https://alienxproject.github.io/X/
 
-[![](https://raw.githubusercontent.com/alienxproject/X/main/assets/img/V0.9.jpg)]([https://alienxproject.github.io/X/]))
+[![](https://raw.githubusercontent.com/alienxproject/X/master/assets/img/v0.9.jpg)](https://alienxproject.github.io/X/)
 
 ## list of channels
 <details>
