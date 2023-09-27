@@ -28,7 +28,7 @@ function m3utojson(m3u) {
                  "tvg-id": channel[0].split('"')[1],
                  "title": channel[0].split('"')[3],
                  "name": channel[0].split(',')[1],
-                 "m3u8_url": channel[1].replace('http://', 'http://')                        
+                 "m3u8_url": channel[1].replace('http://', 'https://')                        
                 }
 			}
         });
