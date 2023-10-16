@@ -39,18 +39,6 @@ function m3utojson(m3u) {
 // 
 let m3u = `
 #EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-name="🔴 Asian game 1" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", ts sport 1 * | CL
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b1096000_slENG.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="🔴 Asian game 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", abu dhabi sport 1 * | CL
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b1096000_slENG.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="🔴 Asian game 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 * | CL
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b1096000_slENG.m3u8
-#EXTINF:-1 tvg-id="1160" tvg-name="🔴 Asian game 4" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV * | CL
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
-#EXTINF:-1 tvg-id="1255" tvg-name="🔴 Asian game 5" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", VClassicTV Tropical * | CL
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/chunklist_b1096000_slENG.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="🔴 Asian game 6" tvg-logo="https://i2.paste.pics/6abc319563c207c4ba1fb2c199fedd86.png", Portal FoxMix * | CL
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/chunklist_b1096000_slENG.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="ts sport 1" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", ts sport 1 * | CL
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="abu dhabi sport 1" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", abu dhabi sport 1 * | CL
